@@ -27,8 +27,8 @@ This project is a Python-based data processing suite designed to analyze social 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vigneshwari-836/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/vigneshwari-836/Social_media_data_driven-unlox.git
+   cd     Social_media_data_driven-unlox
 
 1.   Set up a Virtual Environment
   python -m venv venv
