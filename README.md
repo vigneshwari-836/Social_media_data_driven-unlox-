@@ -58,5 +58,7 @@ python sentiment_analyzer.py
 
     Environment: Ensure you are using Python 3.8+ for compatibility with the project's logic.
 
-## Documentation
-A detailed analysis of the results can be found in the [Report.pdf](./docs/Report.pdf).
+## 📄 Documentation & Reports
+Detailed analysis and project findings are available here:
+- [Project Analysis Report (Google Drive)]
+-  DriveLink: https://drive.google.com/drive/folders/14VCyFR2GpDwReKHroT169b9oAlt0msTZ?usp=drive_link)
