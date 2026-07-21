@@ -57,3 +57,6 @@ python sentiment_analyzer.py
     Database: The system uses a SQLite database (social_initiative.db). This is automatically managed by database_handler.py.
 
     Environment: Ensure you are using Python 3.8+ for compatibility with the project's logic.
+
+## Documentation
+A detailed analysis of the results can be found in the [Report.pdf](./docs/Report.pdf).
